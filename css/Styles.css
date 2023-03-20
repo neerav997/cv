@@ -1,0 +1,84 @@
+body  {
+    background-color: #245953;
+    text-align: center;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.imga {
+    margin-top: 50px;
+    height: 200px;
+    width: 200px;
+ 
+}
+table {
+    margin: 0 auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFF2CC;
+}
+.bottom-table {
+    text-align: left;
+}
+/**div {
+    width: 50%;
+    margin: 0 auto 0 auto;
+}**/
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 50px;
+    border-width: 4px;
+    margin: 80px auto 80px auto;
+    color: aliceblue;
+    
+}
+h1 {
+    font-family: 'Sacramento', cursive;
+    color: #FFD966;
+    font-size: 50px;
+}
+h2 {
+    color: #ffa467;
+}
+p {
+    color: #FFF2CC;
+    font-family: 'Montserrat', sans-serif;
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+.description {
+    margin-bottom: 50px;
+}
+.hoveri {
+    
+    color: #fff2cc;
+}
+.hoveri:hover {
+    color: #94AF9F;
+}
+
+.bottom-container {
+    background-color: #B46060;
+    padding: 40px 0 40px;
+    margin: 50px 0 0;
+   
+}
+.contacti {
+    text-align: left;
+}
+.form {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff2cc;
+    margin: 0 auto 0 auto;
+    width: 342px;
+}
+.top-cloud {
+    position: absolute;
+    right: 170px;
+    top: 100px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 130px;
+    top: 300px;
+}
